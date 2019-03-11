@@ -59,7 +59,8 @@ html {
 
 h1,h2,h3{
     color:#17181A;
-    font-family: "Inter UI", "Helvetica Neue", Helvetica, arial, sans-serif;
+    /* font-family: "Inter UI", "Helvetica Neue", Helvetica, arial, sans-serif; */
+    font-family: "Droid Serif", Helvetica, arial, sans-serif;
 }
 
 body {
@@ -100,7 +101,7 @@ img {
 
 
 h1 {
-    font-family: "Inter UI", "Times New Roman", serif;
+    font-family: "Playfair Display", serif;
     font-size: 36px;
     font-weight: normal;
     line-height: 40px;
